@@ -1,0 +1,5 @@
+{
+  "name": "USEROID Search",
+  "description": "A powerful search engine powered by Gemini and Google Search grounding.",
+  "requestFramePermissions": []
+}
